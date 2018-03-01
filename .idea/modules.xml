@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cart.iml" filepath="$PROJECT_DIR$/cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart-core/cart-core.iml" filepath="$PROJECT_DIR$/cart-core/cart-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart-sdk/cart-sdk.iml" filepath="$PROJECT_DIR$/cart-sdk/cart-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart-server/cart-server.iml" filepath="$PROJECT_DIR$/cart-server/cart-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart-service/cart-service.iml" filepath="$PROJECT_DIR$/cart-service/cart-service.iml" />
+    </modules>
+  </component>
+</project>
